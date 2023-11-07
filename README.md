@@ -1,2 +1,2 @@
 # GameLixEngine
-An upcoming Game Engine fully written in C#
+An upcoming 2D Game Engine fully written in C#
